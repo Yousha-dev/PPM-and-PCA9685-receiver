@@ -1,2 +1,2 @@
-# PPM-and-pca9685-receiver
+# PPM-and-PCA9685-receiver
 This Arduino project enables wireless control using NRF24L01 modules. It incorporates PCA9685 for precise PWM (Pulse Width Modulation) output, facilitating servo motor control with low latency. Additionally, the code includes PPM (Pulse Position Modulation) signal generation for compatibility with various RC (Remote Control) applications. Ideal for robotics and drone projects requiring reliable wireless communication and precise motor control.
